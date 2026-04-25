@@ -1,1 +1,10 @@
 A scalable time-series rainfall prediction system leveraging hybrid deep learning and metaheuristic optimization. The project combines LSTM, CNN-LSTM, Transformer, and tree-based models (XGBoost) with advanced optimization techniques (HHO, SMA, MPA, AOA, RSA) for hyperparameter tuning. Includes end-to-end pipeline: data preprocessing, feature engineering, model comparison, and evaluation using RMSE/MAE. Achieved best performance with RSA-optimized CNN-LSTM (RMSE: 8.24), demonstrating improved accuracy over baseline models.
+
+## 📂 Dataset
+
+- **TrainData.csv** — Used for training  
+- **TestData.csv** — Used for evaluation  
+
+### 🔗 Source
+Dataset available at:  
+https://zenodo.org/records/3902654
